@@ -101,7 +101,12 @@
 
 ## Leetcode Stats  
 
-![](https://leetcard.jacoblin.cool/maheshsvm?theme=unicorn)
+<div align="center">
+
+<a href = "https://leetcode.com/maheshsvm/" target = "_blank">
+  <img src="https://leetcard.jacoblin.cool/maheshsvm?theme=unicorn" align="center" style="width: 50%" />
+  </a>
+</div> 
 <br/>  
 
 <br />
