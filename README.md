@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Mahesh Sharma, a frontend developer 👨‍💻 on learning path 🚀</div>  
+### <div align="center">Hey There 👋 I'm Mahesh Sharma, a passionate frontend developer 👨‍💻 currently on learning path 🚀</div>  
   
 
 - 🔭 I’m currently working on [HTML CheetSheet](https://cheetcode.netlify.app/)  
