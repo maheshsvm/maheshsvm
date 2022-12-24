@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mahesh Sharma, a frontend developer 👨‍💻 on learning path 🚀</div>  
   
 
-- 🔭 I’m currently working on [Myntra Clone](https://maheshmyntraclone.netlify.app/)  
+- 🔭 I’m currently working on [CheetSheet]([https://maheshmyntraclone.netlify.app/](https://cheetcode.netlify.app/))  
   
 
 - 🌱 I’m currently learning React  
@@ -104,7 +104,7 @@
 <div align="center">
 
 <a href = "https://leetcode.com/maheshsvm/"  target = "_blank">
-  <img src="https://leetcard.jacoblin.cool/maheshsvm?theme=unicorn" align="center" style="width: 50%" />
+  <img src="https://leetcard.jacoblin.cool/maheshsvm?theme=unicorn" align="center" style="width: 100%" />
   </a>
 </div> 
 <br/>  
