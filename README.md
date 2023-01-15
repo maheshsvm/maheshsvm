@@ -89,17 +89,16 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=maheshsvm&&style=flat-square" align="center" />
 </div> 
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshsvm&show_icons=true&locale=en&layout=compact" alt="maheshsvm" /></p>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=maheshsvm&show_icons=true&locale=en" alt="maheshsvm" /></p>
+<p><img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=maheshsvm&show_icons=true&locale=en&layout=compact" alt="maheshsvm" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=maheshsvm&show_icons=true&locale=en" alt="maheshsvm" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshsvm&" alt="maheshsvm" /></p> 
-  
 
 <br/>  
 
 
 <br />
-<!-- 
-## Leetcode Stats  
+
+<!-- ## Leetcode Stats  
 
 <div align="center">
 
