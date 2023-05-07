@@ -6,7 +6,7 @@
 ### <div align="center">Hey There 👋 I'm Mahesh Sharma, a passionate frontend developer 👨‍💻 currently on learning path 🚀</div>  
   
 
-- 🔭 I’m currently working on [HTML CheetSheet](https://cheetcode.netlify.app/)  
+- 🔭 I’m currently working on [iNoteBook](https://github.com/maheshsvm/iNoteBook)  
   
 
 - 🌱 I’m currently learning React  
